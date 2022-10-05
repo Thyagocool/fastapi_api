@@ -1,2 +1,2 @@
-# fastiapi_api
+# fastapi_api
 Simple FastAPI Example
